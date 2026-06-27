@@ -157,3 +157,8 @@ Watch NeuroNav instantly deconstruct a massive objective into low-friction micro
 ### 🤖 3. The VS Code
 
 <img width="944" height="532" alt="vs" src="https://github.com/user-attachments/assets/1783923e-e670-4639-8e1d-b454cb785546" />
+
+### 🤖 3. The GitLab README.md file
+
+<img width="953" height="476" alt="Capture" src="https://github.com/user-attachments/assets/3b2c92c9-46a0-46fa-8be5-0d060f2984a1" />
+
