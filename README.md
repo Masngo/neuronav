@@ -126,3 +126,34 @@ Demo video uploaded
 Repository links verified
 Final project submitted before the deadline
 
+## 🚀 Live Demo
+
+Experience the live application here: **[Deploy on Vercel]((https://neuronav-kappa.vercel.app/))**
+
+
+## 📸 Application Preview
+
+### 🎚️ 1. The Interactive Setup
+Adjust your emotional and cognitive overwhelm level to customize the AI output configuration depth.
+
+![NeuroNav Slider Setup]
+
+(screenshots/setup-slider.png)
+
+<img width="958" height="486" alt="dashboard" src="https://github.com/user-attachments/assets/799e15e3-b8a8-41d8-9a88-4d2d1a7cc8b4" />
+
+
+---
+
+### 🤖 2. The Gentle AI Roadmap
+Watch NeuroNav instantly deconstruct a massive objective into low-friction micro-steps complete with completion tracking indicators, emojis, and visual time-stamps.
+
+(screenshots/roadmap-results.png
+
+<img width="953" height="516" alt="nav1" src="https://github.com/user-attachments/assets/1a99ba7c-8654-423c-9f43-fc6d77012d2b" />
+
+
+
+### 🤖 3. The VS Code
+
+<img width="944" height="532" alt="vs" src="https://github.com/user-attachments/assets/1783923e-e670-4639-8e1d-b454cb785546" />
