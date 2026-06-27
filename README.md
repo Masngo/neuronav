@@ -162,3 +162,11 @@ Watch NeuroNav instantly deconstruct a massive objective into low-friction micro
 
 <img width="953" height="476" alt="Capture" src="https://github.com/user-attachments/assets/3b2c92c9-46a0-46fa-8be5-0d060f2984a1" />
 
+## 📺 Application Demo Video
+
+Click the preview image below to watch the full walkthrough of NeuroNav on Vimeo:
+
+[![Watch the NeuroNav Demo](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=600&auto=format&fit=crop)](https://vimeo.com/1205141217)
+
+*Alternatively, you can access the video directly here: [NeuroNav Project Demo on Vimeo](https://vimeo.com/1205141217)*
+
